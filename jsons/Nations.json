@@ -5,6 +5,7 @@
 		"adjective": ["Ruthic"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
+		"personality": "Vanheim von Ruthmann",
 		
 		"startIntroPart1": "Against raging blizzards and endless hordes of monsters, the great Principality of Ruthheim has stood firm as a rock for centuries. Now, alongside its valiant wolves, the great northern realm stands ready to rise once more.",
 		"startIntroPart2": "With the radiant sword warriors 'Polarglaive', do you have what it takes to bring the world under your kingdom's rule?",
@@ -31,8 +32,9 @@
 
 		"outerColor": [26,120,203],
 		"innerColor": [130,184,232],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"uniqueName": "Realm of Blizzard",
+		"uniques": ["[+25]% Strength <for [melee] units> [on <Tundra>] tiles"],
+		"cities": ["Chellingham","Rudiman","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
