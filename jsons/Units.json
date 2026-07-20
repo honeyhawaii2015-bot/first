@@ -11,7 +11,7 @@
 		"upgradesTo": "The Polarglaive",
 		"promotions": ["Barrige I"],
 		"requiredResource": "[2] Iron, Silver",
-		"uniques": ["[+25]% Strength <in [Tundra,Snow,Hill] tiles"],
+		"uniques": ["[+25]% Strength <on [Tundra,Snow] tiles"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -26,7 +26,7 @@
 		"upgradesTo": "Kerdi the Paragon",
 		"promotions": ["Barrige I", "Accuracy I", "Cover I"],
 		"requiredResource": "[4] Iron, [2] Silver",
-		"uniques": ["[+50]% Strength <in [Tundra,Snow,Hill] tiles>","Can move after attacking","[+1] movement <in [Tundra,Snow,Hill] tiles>"],
+		"uniques": ["[+50]% Strength <on [Tundra,Snow] tiles>","Can move after attacking","[+1] movement <on [Tundra,Snow] tiles>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -39,7 +39,7 @@
 		"cost": 410,
 		"requiredTech": "The Enlightment",
 		"promotions": ["[Paragon] ability"],
-		"requiredResource": "Enlightment",
-		"uniques": ["[+50]% Strength <in [Tundra,Snow,Hill] tiles>","Can move after attacking","[+1] movemetn <in [Tundra,Snow,Hill] tiles>",""],
+		"uniques": ["[+50]% Strength <in [Tundra,Snow] tiles>","Can move after attacking","[+1] movemetn <in [Tundra,Snow] tiles>","Blazzard Slash radius [2]","Consumes [1] Enligtment","[-100]% maintenance cost"],
+		"attackSound": "nonmetalhit"
 	}
 ]
